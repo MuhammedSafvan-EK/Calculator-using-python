@@ -3,7 +3,7 @@
 This project is a Graphical User Interface (GUI) Calculator built using Python's Tkinter library. 
 It supports basic arithmetic operations such as addition, subtraction, multiplication, division, and decimal input.
 
-##🚀 Features##
+## 🚀 Features ##
 
 Responsive GUI built with Tkinter
 
@@ -24,7 +24,7 @@ Error handling (e.g., division by zero)
 Clear and reset functionality
 
 
-##Calcluator-GUI##
+## Calcluator-GUI ##
 
 
 Here’s a screenshot of the project:
