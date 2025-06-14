@@ -1,4 +1,4 @@
-![Screenshot 2025-06-14 233911](https://github.com/user-attachments/assets/c127df9a-128b-48af-a31b-5491d1afcd85)#**🧮 Simple GUI Calculator with Python and Tkinter**#
+#**🧮 Simple GUI Calculator with Python and Tkinter**#
 This project is a Graphical User Interface (GUI) Calculator built using Python's Tkinter library. It supports basic arithmetic operations such as addition, subtraction, multiplication, division, and decimal input.
 
 ##**🚀 Features**##
@@ -26,4 +26,4 @@ Clear and reset functionality
 
 Here’s a screenshot of the project:
 
-![Screenshot](images/Screenshot 2025-06-14 233911.png)
+![Screenshot 2025-06-14 233911](https://github.com/user-attachments/assets/c127df9a-128b-48af-a31b-5491d1afcd85)
